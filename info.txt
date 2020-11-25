@@ -1,0 +1,4 @@
+username: suzzysmith
+password:eMFxOOpJbz38DQYq
+
+mongodb+srv://suzzysmith:<password>@cluster0.dyrlh.mongodb.net/<dbname>
